@@ -5,4 +5,4 @@
 If you find my open-source projects helpful, please consider supporting my work. Every contribution means a lot!
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-ff5f5f?logo=ko-fi&logoColor=white)](https://ko-fi.com/furryaxw)
-[![爱发电](https://img.shields.io/badge/爱发电-赞助支持-946ce6?logo=heart&logoColor=white)](https://afdian.com/a/furryaxw)
+[![爱发电](https://img.shields.io/badge/爱发电-赞助支持-946ce6?logo=afdian&logoColor=white)](https://afdian.com/a/furryaxw)
